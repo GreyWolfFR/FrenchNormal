@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- Version 1.04 2017-07-18 -->
 <!-- Translator 1 : Pierre de Brosses @CloneMMDDCVII ; Translator 2 : Kapryss [ENL BE] Brussels ♥️ @KapryssBoobzCulee ; Translator 3 : @ealhad & @acoussat -->
+<!-- RDV sur https://github.com/GreyWolfFR/FrenchNormal/ pour participer à la traduction -->
 <strings>
   <language name="french" base="Français" variant="Normal"/>
   <string key="NotInGame">
