@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- Version 1.04 2017-07-18 -->
+<!-- Version 1.05 2017-10-08 -->
 <!-- Translator 1 : Pierre de Brosses @CloneMMDDCVII ; Translator 2 : Kapryss [ENL BE] Brussels ♥️ @KapryssBoobzCulee ; Translator 3 : @ealhad & @acoussat -->
 <!-- RDV sur https://github.com/GreyWolfFR/FrenchNormal/ pour participer à la traduction -->
 <strings>
@@ -1298,5 +1298,31 @@ Comme il ne reste que {0}, {1} attend patiemment le moment où celui-ci baissera
   </string>
   <string key="RandomModeA">
     <value>Mode aléatoire : {0}</value>
+  </string>
+
+  <string key="AllowNSFW">
+    <value>Autoriser les images animées olé olé</value>
+  </string>
+  <string key="AllowNSFWQ">
+    <value>Autoriser les joueurs à utiliser des images animées olé olé ?\Actuellement : {0}</value>
+  </string>
+  <string key="AllowNSFWA">
+    <value>{0} les images animées olé olé</value>
+  </string>
+  
+  <string key="TannerEnd">
+    <!-- 0 - nom du Tanneur -->
+    <value>Tandis que le soleil se lève sur le village, {0} se réveille pour n’entendre que le silence. Réalisant qu’il ne reste plus personne, {0} marche jusqu’à la place du village. À la vue des cadavres épars, {0} soupire : son rêve de devenir la victime du courroux des villagois est mort en même temps que ses derniers membres. {0} gravit les marches de la potence, qui a tant servi récemment, et passe la tête dans le nœud de chanvre...</value>
+  </string>
+  <string key="SorcererEnd">
+    <!-- 0 - nom de la Sorcière -->
+    <value>{0} opens their eyes, but instead of hearing the usual bustle of the village, they are met with silence. They stare at the dreary ceiling, letting reality slowly sink in. Everyone was dead. The wolves were dead. With a pang in their heart, {0} gets up, and packs their things, before walking to the edge of the village. A tear slips from their eye, as {0} recalls how close they and their wolves were to victory. Alas, it was time to start a new life, with a new pack. {0} slips into the darkness of the forest, away from the quiet village.</value>
+    <value>Malgré tous les efforts de {0}, tous ses alliés loups sont étendus sur la place du village, morts. Même si, ensemble, ils ont gagné, il ne reste plus personne avec qui savourer la victoire... {0} scrute sa boule de cristal, et disparaît dans un nuage de fumée sombre, en quête de nouveaux alliés poilus et de nouveaux crimes.</value>
+  </string>
+  <string key="WhatVariantVets">
+    <value>Quelle variante ?\Actuellement : {0}\nAyant plus de 500 parties à votre actif, vous pouvez éąlement rejoindre : </value>
+  </string>
+  <string key="Skip">
+	<value>Passer</value>
   </string>
 </strings>
