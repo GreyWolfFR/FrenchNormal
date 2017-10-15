@@ -20,18 +20,21 @@
   </string>
   <string key="AlreadyJoined">
     <value>Vous êtes déjà dans la partie...</value>
+    <value>Mais enfin, vous êtes déjà dans la partie !</value>
   </string>
   <string key="MinuteLeftToJoin">
     <value>1 minute restante pour rejoindre la partie.</value>
   </string>
   <string key="SecondsLeftToJoin">
     <value>{0} secondes restantes pour rejoindre la partie.</value>
+    <value>{0} secondes restantes pour rejoindre la partie !</value>
   </string>
   <string key="NotEnoughPlayers">
     <value>Il n'y a pas assez de joueurs, partie annulée...</value>
   </string>
   <string key="StartingGameWait">
     <value>Démarrage du jeu, merci d'attendre que je mette à jour la banque de données et que j'attribue les rôles.</value>
+    <value>C’est parti, attendez donc un instant que j'attribue les rôles...</value>
   </string>
   <string key="BannedForExploit">
     <value>{0} a été banni pour tentative de triche (pas de noms commençant par /)</value>
@@ -49,7 +52,8 @@
     <value>{0}, envoyez moi un mp (@{1}) avec /start. Vous devez m'envoyer un message privé pour que je puisse vous contacter à mon tour.</value>
   </string>
   <string key="DeadFlee">
-    <value>Vous ne pouvez pas fuir, vous êtes mort, retournez à la terre !</value>
+    <value>Vous ne pouvez pas fuir, vous êtes mort !</value>
+    <value>Mais vous êtes déjà mort...</value>
   </string>
   <string key="Flee">
     <value>{0} a fui de terreur !</value>
@@ -79,64 +83,75 @@
     <value>{0} veut lyncher {1}.</value>
   </string>
   <string key="IdleKill">
-    <value>{0} s'est abstenu de voter pendant 2 nuits... Les forces célestes ont vu en cela une insulte à leur culte. {0} tombe à terre, raide mort...\n{1}</value>
+    <value>{0} s'est abstenu de voter deux fois de suite... Les forces célestes ont vu en cela une insulte à leur culte. {0} tombe à terre, raide mort...\n{1}</value>
+    <value>{0} a par deux fois refusé d’accomplir son devoir citoyen sacré. Le ciel s’obscurcit, et et la foudre s’abat sur {0} !\n{1}</value>
   </string>
   <string key="TraitorTurnWolf">
-    <value>Traître ! Tu es maintenant un loup !..</value>
+    <value>Traître ! Vous êtes maintenant un loup !</value>
   </string>
   <string key="ChoiceAccepted">
     <value>Un bon choix...</value>
+    <value>Un choix intéressant...</value>
   </string>
   <string key="BeholderSeer">
-    <value>\nLe voyant est {0}.</value>
+    <value>\nLa Voyante est {0}.</value>
   </string>
   <string key="ApprenticeNowSeer">
-    <value>{0} était voyant. En tant qu'apprenti, vous prenez sa place, et remplirez son rôle.</value>
+    <value>{0} était Voyante. En tant qu'apprenti, vous prenez sa place, et remplirez désormais son rôle.</value>
   </string>
   <string key="BeholderNewSeer">
-    <value>{0}, apprenti, a prit la place de {1} en tant que voyant...</value>
+    <value>{0}, apprenti, a prit la place de {1} en tant que Voyante !</value>
   </string>
   <string key="SeerSees">
-    <value>Les astres vous révèlent que {0} est {1}!</value>
+    <value>Les astres vous révèlent que {0} est {1} !</value>
+    <value>Dans votre boule de cristal (finement ouvragée), vous découvrez que {0} est {1} !</value>
   </string>
   <string key="AskLynch">
-    <value>Qui vous paraît le plus coupable, et mérite d'être lynché ?</value>
+    <value>Qui vous paraît le plus coupable, et mérite d'être lynché ?</value>
+    <value>Qui préférez vous pendre ? Attention, ne vous trompez pas !</value>
+    <value>Qui vous paraît le plus coupable, et mérite de mourir ?</value>
   </string>
   <string key="AskDetect">
-    <value>Sur qui voulez vous enquêter ?</value>
+    <value>Sur qui voulez vous enquêter ?</value>
   </string>
   <string key="AskShoot">
-    <value>Qui voulez vous tuer ? {0} balle(s) restantes.</value>
+    <value>Qui voulez vous tuer ? {0} balle(s) restantes.</value>
   </string>
   <string key="AskVisit">
-    <value>Chez qui voulez-vous passer la nuit ?</value>
+    <value>Chez qui voulez-vous passer la nuit ?</value>
+    <value>À qui voulez-vous proposer vos services ce soir ?</value>
   </string>
   <string key="AskSee">
-    <value>Qui voulez vous observer ?</value>
+    <value>Qui voulez-vous observer ?</value>
   </string>
   <string key="AskGuard">
-    <value>Qui voulez-vous protéger ?</value>
+    <value>Qui voulez-vous protéger ?</value>
   </string>
   <string key="AskEat">
-    <value>De qui voulez-vous déchirer les entrailles, pour vos repaître de son corps ?</value>
+    <value>De qui voulez-vous déchirer les entrailles, pour vos repaître de son corps ?</value>
+    <value>Qui voulez-vous sauvagement dévorer ?</value>
+    <value>Avec le sang de quelle victime souhaitez vous assouvir votre faim ?</value>
   </string>
   <string key="AskHunt">
-    <value>Qui voulez-vous juger ?</value>
+    <value>Qui voulez-vous juger ?</value>
   </string>
   <string key="AskRoleModel">
-    <value>Qui voulez-vous prendre comme modèle et idole ?</value>
+    <value>Qui voulez-vous prendre comme modèle et idole ?</value>
   </string>
   <string key="AskConvert">
-    <value>Qui souhaitez vous convertir à votre culte ?</value>
+    <value>Qui souhaitez vous convertir à votre culte ?</value>
   </string>
-  <string key="DiscussWith"><!--Leave the leading spaces here please-->
+  <string key="DiscussWith">
+    <!-- Les espaces en début de phrase sont importants ! -->
     <value>  Faites attention de discuter avec {0}.</value>
+    <value>  N’oubliez pas de vous concerter avec {0} !</value>
   </string>
-  <string key="And"> <!--this is paired with "DiscussWith".  again, leave the spaces!-->
+  <string key="And">
+    <!-- Idem, les espaces sont importants. -->
     <value> et </value>
   </string>
   <string key="RoleInfoCursed">
-    <value>Vous êtes maudit ! Si les loups vous mangent, vous rejoindrez leurs rangs.</value>
+    <value>Vous êtes maudit ! Si les loups vous mangent, vous rejoindrez leurs rangs.</value>
   </string>
   <string key="RoleInfoDetective">
     <value>Vous êtes le détective.. Pendant la journée, vous pouvez choisir d'enquêter sur une personne, et de révéler son rôle publiquement. En faisant cela, vous vous exposez cependant aux yeux de tous, et avez 40% de chances d'être découvert.</value>
@@ -190,19 +205,22 @@
     </value>
   </string>
   <string key="DayTime" >
-    <value >Le soleil viens de se lever. Vous avez {0} secondes pour accuser, défendre et préserver votre vie.</value>
+    <value>Le soleil viens de se lever. Vous avez {0} secondes pour accuser, défendre et préserver votre vie.</value>
+    <value>La journée commence. Vous avez {0} secondes pour débattre afin d’identifier les intrus !.</value>
   </string>
   <string key="NightTime" >
-    <value >La nuit tombe sur le village de Thiercelieux, et les villageois se rendent chez eux, fatigués, après une autre dure journée de labeur. Joueurs spéciaux, vous avez {0} secondes pour utiliser vos pouvoirs !</value>
+    <value>La nuit tombe sur le village de Thiercelieux, et les villageois se rendent chez eux, fatigués, après une autre dure journée de labeur. Joueurs spéciaux, vous avez {0} secondes pour utiliser vos pouvoirs !</value>
   </string>
   <string key="LynchKill" >
-    <value >Les villageois ont fait leur choix, et {0} rejoint maintenant l'assemblée des pendus. {1}</value>
+    <value>Les villageois ont fait leur choix, et {0} rejoint maintenant l'assemblée des pendus. {1}</value>
+    <value>Les villageois ont voté pour {0} ! Son cadavre se balance maintenant au bout d’une corde. {1}</value>
   </string>
   <string key="LynchTie" >
-    <value >Incapables de mettre fin à des litiges personnels, les villageois ne peuvent assouvir leur soif de vengeance. L'ennemi survit un peu plus longtemps.</value>
+    <value>Incapables de mettre fin à des litiges personnels, les villageois ne peuvent assouvir leur soif de vengeance. L'ennemi survit un peu plus longtemps.</value>
+    <value>Le vote n’a aucune issue claire ! Les villageois rentrent donc chez eux. La nuit porte conseil...</value>
   </string>
   <string key="NoLynchVotes" >
-    <value >Quel est ce maléfice ? Personne n'a voté ce soir...</value>
+    <value>Quel est ce maléfice ? Personne n'a voté ce soir...</value>
   </string>
   <string key="DetectiveEaten" >
     <value >Les villageois se réunissent à l'aube, mais personne ne voit {0}. Tous se rendent chez lui, et découvrent {0} démembré, ses entrailles déchiquetées, une insigne en travers de la gorge.</value>
@@ -238,10 +256,11 @@
     <value>Vos partenaire(s) Loup(s): {0}</value>
   </string>
   <string key="CursedBittenToWolves" >
-    <value >{0} a été mordu... Son sang a un goût bizzare... celui d'une proie qui n'est pas humaine... Le maudit rejoint vos rangs...!</value>
+    <value >{0} a été mordu, mais son sang a un goût bizzare... Celui d'une proie qui n'est pas humaine. Le Maudit rejoint vos rangs !</value>
   </string>
   <string key="WolvesEatYou" >
-    <value >Vous vous réveillez le matin, les entrailles déchirées, le visage ensanglanté... mais ?! Vous vous voyez ? VOUS ÊTES MORT, les loups vous ont mangé...</value>
+    <value>Vous vous réveillez le matin, les entrailles déchirées, le visage ensanglanté... mais ?! Vous vous voyez ? VOUS ÊTES MORT, les loups vous ont mangé...</value>
+    <value>Vous ne vous réveillez pas. Enfin, si, mais pas assez longtemps pour reconnaître le loup qui vous tranche la gorge d’un coup de dents. Dommage...</value>
   </string>
   <string key="WolvesEatDrunk" >
     <value >Quel dommage, {0} était alcoolique ! Maintenant, vous l'êtes aussi, et vous devrez cuver votre vin demain au lieu d'attaquer...</value>
