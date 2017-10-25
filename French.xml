@@ -1166,7 +1166,7 @@ Si les cultistes tentent de vous convertir, ils auront 50% de chance de réussir
     <value>{0} aurait en théorie pu vaincre le Céréales Killer, mais il semblerait qu'il en soit advenu autrement. {0} est mort.</value>
   </string>
   <string key="GunnerKilled">
-    <value> {0} semble s'être réellement assoupi cette nuit ! Un coup de feu a été entendu, et on l'a retrouvé avec un trou dans la tête, et un doigt de pied manquant. Le Céréales Killer a encore frappé...</value>
+    <value> {0} devait dormir très profondément cette nuit ! Un coup de feu a été entendu, et on l'a retrouvé avec un trou dans la tête, et un doigt de pied manquant. Le Céréales Killer a encore frappé...</value>
   </string>
   <string key="MayorKilled">
     <value>Au meurtre ! {0} le maire est retrouvé poignardé, gisant sur son bureau sur des documents officiels. Il s'agit clairement d'un coup du Céréales Killer.</value>
