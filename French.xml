@@ -299,7 +299,8 @@
     <value >Vous remarquez que {0} n'est pas un loup, car il vous a prise toute la nuit !</value>
   </string>
   <string key="HarlotVisitYou" >
-    <value >Il faisait un peu sombre, et vous ne pouviez pas voir grand chose, mais vous vous réveillez au milieu de la nuit avec la catin sur les jambes.... Vous finissez rapidement vos affaires, puis la laissez partir silencieusement.</value>
+    <value>Hoho ! Vous ouvrez la porte, pour découvrir la catin, en nuisette, qui vous lance un regard aguicheur. Vous la laissez rentrer, et verrouillez la porte. Une bonne soirée en perspective !</value>
+    <value>Quelle chance ! C’est à vous que la catin a choisi d’offrir ses services ce soir. Conformément à ses instructions, vous vous étendez sur le lit...</value>
   </string>
   <string key="DetectiveCaught" >
     <value >Vous avez pris {0} en train d'enquêter. C'est le détective !</value>
