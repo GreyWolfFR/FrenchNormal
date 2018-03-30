@@ -169,7 +169,7 @@
     <value>Catin ! Vous êtes la péripatéticienne. Pendant la nuit, vous pouvez « rendre visite » à un joueur, pour vous enquérir d'une potentielle lycanthropie. Si vous rendez visite à un loup, vous finirez démembrée, déchirée, et vos entrailles seront répandues dans le village.</value>
   </string>
   <string key="RoleInfoTraitor">
-    <value>Traître ! Pour l'instant, vous êtes un villageois, mais si tous les loups meurent, vous prendrez le relais. Si le voyant choisis de vous observer, vous serez vu au hasard comme un loup, ou commme un villageois.</value>
+    <value>Traître ! Pour l'instant, vous êtes un villageois, mais si tous les loups meurent, vous prendrez le relais. Si la voyante choisis de vous observer, vous serez vu au hasard comme un loup, ou commme un villageois.</value>
   </string>
   <string key="RoleInfoWolf">
     <value>Vous êtes un loup (une bonne chose). Chaque soir, le ventre gargouillant, vous vous transformerez sous l'action de la lune, et ressentirez le besoin de vous repaître du corps d'un des villageois...</value>
@@ -187,10 +187,10 @@
     <value >Vous êtes l'enfant sauvage. Choisissez un modèle, si cette personne meurt, alors vous deviendrez loup garou.</value>
   </string>
   <string key="RoleInfoBeholder" >
-    <value >Vous êtes le tyranœil, vous serez prévenu de l'identité du véritable voyant, c'est votre seule fonction..</value>
+    <value >Vous êtes le tyranœil, vous serez prévenu de l'identité de la véritable voyante. Et c'est votre seule fonction.</value>
   </string>
   <string key="RoleInfoApprenticeSeer" >
-    <value >Vous êtes l'apprenti voyant. Si le voyant meurt, alors vous prendrez sa place...</value>
+    <value >Vous êtes l'apprenti voyant. Si la voyante meurt, alors vous prendrez sa place...</value>
   </string>
   <string key="RoleInfoCultist" >
     <value >Vous êtes le cultiste. Chaque nuit, vous pouvez choisir une personnne à convertir au culte. Si tous les joueurs restants appartiennent au culte, vous gagnez.</value>
@@ -232,7 +232,7 @@
     <value >Alors que tout les villageois sortent de chez eux, ils remarquent le canon d'un fusil... Puis des jambes... Puis des bras... puis, flottant dans la fontaine du village, le corps de votre chasseur, {0}. La fontaine va être dure à laver...</value>
   </string>
   <string key="SeerEaten" >
-    <value >Les villageois se réveillent, pour entrevoir les restes de {0} étalés sur un jeu de tarot. Le voyant est mort.</value>
+    <value >Les villageois se réveillent, pour entrevoir les restes de {0} étalés sur un jeu de tarot. La voyante est morte !</value>
   </string>
   <string key="DrunkEaten" >
     <value >Une odeur d'alcool et de fumée réveille les villageois.... Le bar est en feu... Le corps de {0} est retrouvé, à l'heure du déjeuner, cuit à point. Dommage que vous ayez mangé une tartine il y a peu...</value>
@@ -537,7 +537,7 @@
     <value>Nouvelle langue : {0}</value>
   </string>
   <string key="NoSeer">
-        <value>Il n'y a pas de Voyant!</value>
+        <value>Il n'y a pas de Voyante !</value>
   </string>
   <string key="TimesUp">
         <value>Tic tac plouf, le temps est écoulé !</value>
@@ -754,7 +754,7 @@
     <value>Pour le moment, vous n'êtes qu'un simple villageois. Mais si la voyante venait à mourir, vous prendriez sa place.</value>
   </string>
   <string key="AboutBH">
-    <value>En tant que Tyrannœil, vous serez prévenu de l'identité du véritable voyant (mais pas de celle du fou). Vous saurez également s'il n'y a pas de voyant.</value>
+    <value>En tant que Tyrannœil, vous serez prévenu de l'identité de la véritable voyante (mais pas de celle du fou). Vous saurez également s'il n'y a pas de voyante.</value>
   </string>
   <string key="AboutMason">
     <value>Le rôle des franc-maçons est très simple : ce sont de simples villageois à ceci près qu'ils savent qui est également franc-maçon.</value>
