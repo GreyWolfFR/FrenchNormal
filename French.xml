@@ -206,7 +206,7 @@
   </string>
   <string key="DayTime" >
     <value>Le soleil viens de se lever. Vous avez {0} secondes pour accuser, défendre et préserver votre vie.</value>
-    <value>La journée commence. Vous avez {0} secondes pour débattre afin d’identifier les intrus !.</value>
+    <value>La journée commence. Vous avez {0} secondes pour débattre afin d’identifier les intrus !</value>
   </string>
   <string key="NightTime" >
     <value>La nuit tombe sur le village de Thiercelieux, et les villageois se rendent chez eux, fatigués, après une autre dure journée de labeur. Joueurs spéciaux, vous avez {0} secondes pour utiliser vos pouvoirs !</value>
@@ -345,7 +345,7 @@
     <value>Cultistes : {0}</value>
   </string>
   <string key="CultJoin">
-    <value>{0} a rejoint la secte!</value>
+    <value>{0} a rejoint la secte !</value>
   </string>
   <string key="CultVisitEmpty">
     <value>{0} est partit faire le sale boulot pour convertir {1}... La maison était vide !..</value>
@@ -441,7 +441,7 @@
     <value>Vous êtes Franc-Maçon S'il y a d'autres Franc-Maçons, vous saurez qui ils sont. En dehors de cela, vous êtes un villageois....</value>
   </string>
   <string key="MasonEaten">
-    <value>Alors que le village se réveille, les restes d'un corps sans vie, étalés dans le sable et la boue, forment le symbole des françs maçons... l'un d'entre eux vient de mourir! -- {0}</value>
+    <value>Alors que le village se réveille, les restes d'un corps sans vie, étalés dans le sable et la boue, forment le symbole des françs maçons... l'un d'entre eux vient de mourir ! -- {0}</value>
   </string>
   <string key="MasonTeam">
     <value>  Les autres Franc-Maçons sont : {0}</value>
