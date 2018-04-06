@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- Version 1.5.1 2018-03-30 -->
+<!-- Version 1.6.0 2018-04-06 -->
 <!-- Translator 1 : Pierre de Brosses @CloneMMDDCVII ; Translator 2 : Kapryss [ENL BE] Brussels ♥️ @KapryssBoobzCulee ; Translator 3 : @ealhad & @acoussat -->
 <!-- RDV sur https://github.com/GreyWolfFR/FrenchNormal/ pour participer à la traduction -->
 <strings>
@@ -1343,5 +1343,118 @@ Comme il ne reste que {0}, {1} attend patiemment le moment où celui-ci baissera
   </string>
   <string key="Skip">
 	<value>Passer</value>
+  </string>
+
+
+  <!-- Nouveaux rôles, avril 2018 -->
+  <string key="DGTransformToLycan">
+    <!-- 0 - Nom de la cible -->
+    <!-- 1 - Nom des coéquipiers -->
+    <value>{0} est mort, et vous vous transformez en Lycan. Vos coéquipiers, s’ils existent, sont : {1}</value>
+  </string>
+  <string key="NegSeerSees">
+    <!-- 0 - Nom de la cible -->
+    <!-- 1 - Rôle -->
+    <value>Vous voyez que {0} n’est PAS {1} !</value>
+  </string>
+  <string key="AskSandman">
+    <value>Voulez-vous user de votre magie, et forcer tout les habitants à dormir cette nuit ?</value>
+    <value>Voulez-vous que tout le monde dorme paisiblement cette nuit ?</value>
+  </string>
+  <string key="SandmanSleepAll">
+    <value>Alors que les villageois discutent, {0} rentre dans sa demeure et commence à fredonner une douce mélodie. Ce soir, tout le monde dormira profondément, et personne ne sortira.</value>
+  </string>
+  <string key="SandmanNight">
+    <value>Il reste à peine assez d’énergie aux habitants pour rentrer dans leurs lits respectifs. Tout le monde s’endort, d’un profond sommeil sans rêves.</value>
+  </string>
+
+  <string key="AllowThiefQ">
+    <value>Autoriser le Voleur ?\nActuellement : {0}</value>
+  </string>
+  <string key="AllowThiefA">
+    <value>Voleur : {0}</value>
+  </string>
+  <string key="ThiefFullQ">
+    <value>Le Voleur peut-il utiliser son pouvoir toutes les nuits ?\Actuellement : {0}</value>
+  </string>
+  <string key="ThiefFullA">
+    <value>Voleur actif toutes les nuits : {0}</value>
+  </string>
+  <string key="AllowThief">
+    <value>Autoriser le Voleur</value>
+  </string>
+  <string key="ThiefFull">
+    <value>Voleur à chaque tour</value>
+  </string>
+
+  <string key="RoleInfoWolfMan">
+    <value>Vous êtes l’Homoursporc. Simple villageois, vous passez tellement de temps dans la forêt que la Voyante vous confondra avec un loup ! Mince…</value>
+  </string>
+  <string key="WolfMan">
+    <value>l’Homoursporc 👱🌚</value>
+  </string>
+  <string key="AboutWolfMan">
+    <value>Vous êtes l’Homoursporc. Simple villageois, vous passez tellement de temps dans la forêt que la Voyante vous confondra avec un loup ! Mince…</value>
+  </string>
+
+  <string key="RoleInfoLycan">
+    <value>Vous êtes le Lycan ! Vous avez beau être un gros loup poilu, la Voyante vous confondra avec un villageois. À vous d’en profiter !</value>
+  </string>
+  <string key="Lycan">
+    <value>le Lycan 🐺🌝</value>
+  </string>
+  <string key="AboutLycan">
+    <value>Le Lycan est un loup, mais apparaît comme un villageois aux yeux de la Voyante.</value>
+  </string>
+
+  <string key="RoleInfoOracle">
+    <value>Vous êtse l’Oracle. Chaque nuit, vous pouvez choisir d’observer quelqu’un, mais tout ce que vous verrez est ce qu’il n’est PAS. Vous verrez à la place le rôle d’un autre joueur encore en vie.</value>
+  </string>
+  <string key="Oracle">
+    <value>l’Oracle 🌀</value>
+  </string>
+  <string key="AboutOracle">
+    <value>L’Oracle peut découvrir quel rôle un joueur n’a PAS, parmis les rôles des joueurs encore en vie.</value>
+  </string>
+
+  <string key="RoleInfoSandman">
+    <value>Vous êtes le Marchand de sable. Une fois par partie, vous pouvez utiliser votre magie pour plonger tout le monde dans un sommeil profond les empêchant d’agir pendant une nuit.</value>
+  </string>
+  <string key="Sandman">
+    <value>le Marchand de sable 💤</value>
+  </string>
+  <string key="AboutSandman">
+    <value>Une fois par partie, le Marchand de sable utiliser votre magie pour plonger tout le monde dans un sommeil profond les empêchant d’agir pendant une nuit.</value>
+  </string>
+
+<!-- NOT IMPLEMENTED YET -->
+  <string key="RoleInfoPacifist">
+    <value></value>
+  </string>
+  <string key="Pacifist">
+    <value>the Pacifist ☮️</value>
+  </string>
+  <string key="AboutPacifist">
+    <value></value>
+  </string>
+
+  <string key="RoleInfoWiseElder">
+    <value></value>
+  </string>
+  <string key="WiseElder">
+    <value>the Wise Elder 📚</value>
+  </string>
+  <string key="AboutWiseElder">
+    <value></value>
+  </string>
+
+  <string key="RoleInfoThief">
+    <value></value>
+  </string>
+  <string key="Thief">
+    <value>the Thief 😈</value>
+  </string>
+  <string key="AboutThief">
+    <value></value>
   </string>
 </strings>
