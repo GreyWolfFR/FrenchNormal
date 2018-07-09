@@ -481,7 +481,7 @@
     <value>Votre groupe est actuellement dans la liste d'attente. Position : {0} / {1}</value>
   </string>
   <string key="MaintBreak">
-    <value>Désolé, je vais effectuer une courte maintenance. Vous ne pouvez pas démarrer une partie maintenant.\n{0} parties doivent encore se terminer...\nAllez sur @werewolfdev pour plus d'informations.</value>
+    <value>Désolé, je vais effectuer une courte maintenance. Vous ne pouvez pas démarrer une partie maintenant.\n{0} parties doivent encore se terminer...\nAllez sur @greywolfdev pour plus d'informations.</value>
   </string>
   <string key="MaxGames">
     <value>Désolé, le nombre maximum de joueurs est atteint. ({0}). \nPosition dans la liste d'attente: {1} / {1}</value>
@@ -749,7 +749,7 @@ Les cultistes ne peuvent convertir un Doppelgänger qui n'a pas encore repris un
   <string key="AboutCupid">
     <value>
       Il y a de l'amour dans l'air ! En tant que Cupidon, vous pouvez choisir deux joueurs en début de partie. Ils tomberont éperduement amoureux ! Si l'un des deux meurt, l'autre mourra de chagrin.
-Remarque : Les amoureux savent qui est leur âme sœur mais pas son rôle. S'ils sont les deux derniers survivants, ils gagnent, mais si l'un des deux survit et qu'ils sont d'équipes différentes (ex : loup et franc-maçon), ils gagneront également. 
+Remarque : Les amoureux savent qui est leur âme sœur mais pas son rôle. S'ils sont les deux derniers survivants, ils gagnent, mais si l'un des deux survit et qu'ils sont d'équipes différentes (ex : loup et franc-maçon), ils gagneront également.
     </value>
   </string>
   <string key="AboutHunter">
@@ -973,7 +973,7 @@ Si les cultistes tentent de vous convertir, ils auront 50% de chance de réussir
   <string key="Ping2">
     <value>Temps de réponse au ping : {0}</value>
   </string>
-  
+
   <!-- Update 4.0-->
   <string key="RoleInfoMayor">
     <value>Vous êtes le maire du village. Pendant le vote pour le lynchage, votre voix compte double une fois que votre rôle est révélé. Vous êtes du côté des villageois.</value>
@@ -1082,7 +1082,7 @@ Si les cultistes tentent de vous convertir, ils auront 50% de chance de réussir
     <!-- 1 - teammates's name -->
     <value>{0} est mort, et vous vous transformez en Louveteau. Vos alliés, s'il en est, sont: {1}</value>
   </string>
-  
+
   <!-- Keep this for now until bots update-->
   <string key="VillageTeam">
     <value>Equipe des villageois</value>
@@ -1099,7 +1099,7 @@ Si les cultistes tentent de vous convertir, ils auront 50% de chance de réussir
   <string key="TannerTeam">
     <value>Equipe tanneur</value>
   </string>
-  
+
   <string key="VillageTeamEnd">
     <value>Equipe des villageois</value>
   </string>
@@ -1125,8 +1125,8 @@ Si les cultistes tentent de vous convertir, ils auront 50% de chance de réussir
     <!--{0} = Harlot name, {1} = SK's victim name-->
     <value>{0} se faufile dans la maison de {1} afin d'y passer une nuit chaude et passionnée... Mais elle l'y trouve sous forme de cadavre, en train de se faire découper les doigts de pied avec une précision chirurgicale par le Céréales Killer ! Celui-ci décide alors de combler {0}, avant de l'ajouter à sa collection de victimes.</value>
   </string>
-  
-  
+
+
   <!--New Death Strings 05 DEC-->
   <string key="ApprenticeSeerEaten">
     <value>Les villageois se réveillent et découvrent {0}, tête manquante, tenant dans sa main un tarot de mauvaise facture et un manuel de voyance. L'apprenti voyant est mort.</value>
@@ -1200,7 +1200,7 @@ Comme il ne reste que {0}, {1} attend patiemment le moment où celui-ci baissera
     <!--{0} = last cultist's name, {1} = CH's name -->
     <value>{1} et {0} sortent de chez eux à l'aube. En voyant la croix qui scintille au cou de {0}, le vertueux {1} tire son épée pour la dernière fois, et met un terme aux exactions du culte qui contaminait le village.</value>
   </string>
-  
+
   <!-- Extend time -->
   <string key="SecondsAdded">
     <!-- 0 - Seconds added by /extend command -->
@@ -1309,7 +1309,7 @@ Comme il ne reste que {0}, {1} attend patiemment le moment où celui-ci baissera
   <string key="AllowNSFWA">
     <value>{0} les images animées olé olé</value>
   </string>
-  
+
   <string key="TannerEnd">
     <!-- 0 - nom du Tanneur -->
     <value>Tandis que le soleil se lève sur le village, {0} se réveille pour n’entendre que le silence. Réalisant qu’il ne reste plus personne, {0} marche jusqu’à la place du village. À la vue des cadavres épars, {0} soupire : son rêve de devenir la victime du courroux des villagois est mort en même temps que ses derniers membres. {0} gravit les marches de la potence, qui a tant servi récemment, et passe la tête dans le nœud de chanvre...</value>
