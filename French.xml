@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- Version 1.6.0 2018-07-16 -->
+<!-- Version 1.6.1 2018-07-16 -->
 <!-- Translator 1 : Pierre de Brosses @CloneMMDDCVII ; Translator 2 : Kapryss [ENL BE] Brussels ♥️ @KapryssBoobzCulee ; Translator 3 : @ealhad & @acoussat -->
 <!-- RDV sur https://github.com/GreyWolfFR/FrenchNormal/ pour participer à la traduction -->
 <strings>
@@ -1448,13 +1448,16 @@ Comme il ne reste que {0}, {1} attend patiemment le moment où celui-ci baissera
   </string>
 
   <string key="RoleInfoThief">
-    <value>Vous êtse le Voleur 😈 ! Vous pouvez voler le rôle d’un joueur lors de la première nuit, et le transformer en villageois.</value>
+    <value>Vous êtes le Voleur 😈 ! Vous pouvez voler le rôle d’un joueur lors de la première nuit, et le transformer en villageois.</value>
+  </string>
+  <string key="RoleInfoThiefFull">
+    <value>Vous êtse le Voleur 😈 ! Puisque l’option [Voleur à chaque tour] est activée, vous avez chaque nuit 50 % de chances de voler son rôle à un joueur ; si vous y parvenez, ce joueur deviendra voleur à sont tour.</value>
   </string>
   <string key="Thief">
     <value>le Voleur 😈</value>
   </string>
   <string key="AboutThief">
-    <value>Par défaut, le Voleur 😈 peut voler le rôle d’un joueur lors de la première nuit et le transformer en villageois. Si l’option [Voleur à chaque tour] est activée, il a chaque nuit 50 % de chances de voler un rôle à un joueur, et s’il y parvient, ce joueur devient voleur à sa place!</value>
+    <value>Par défaut, le Voleur 😈 peut voler le rôle d’un joueur lors de la première nuit et le transformer en villageois. Si l’option [Voleur à chaque tour] est activée, il a chaque nuit 50 % de chances de voler son rôle à un joueur, et s’il y parvient, ce joueur devient voleur à sa place!</value>
   </string>
 
 
