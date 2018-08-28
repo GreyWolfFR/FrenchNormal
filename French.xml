@@ -225,7 +225,7 @@
     <value >Les villageois se réveillent, pour entrevoir les restes de {0} étalés sur un jeu des … sept familles ?! Quel fou !</value>
   </string>
   <string key="DefaultEaten" >
-    <value>Alors que le village se reveille, on retrouve les restes de {0} dispersés dans l'enclos à cochons… tête manquante… MIAMIAMIAMIAMIAMIAMIAMIAM.\n{1}</value>
+    <value>Alors que le village se réveille, on retrouve les restes de {0} dispersés dans l'enclos à cochons… tête manquante… MIAMIAMIAMIAMIAMIAMIAMIAM.\n{1}</value>
   </string>
   <string key="HunterKilledCultist">
     <value>Une puanteur insoutenable émane de la maison de {0}…  Les villageois l'investissent et découvrent un corps en spasmes sur un autel d'onyx… L'inquisiteur a tué un cultiste.!</value>
@@ -495,7 +495,7 @@
     <value>Vous êtes un Doppelgänger. Un Doppelquoi ? Vous êtes métamorphe. Vous pouvoir prendre l'apparence de quelq'un d'autre. Pas trop compliqué pour vous ? Nous disions donc. Vous êtes un Doppelgänger. La légende raconte que vos ancêtres pouvaient se métamorphoser en n'importe quel être conscient. Vous avez hérité de certaines de leur capacités. Choisissez un joueur, et si celui ci meurt, vous prendrez son rôle.</value>
   </string>
   <string key="RoleInfoHunter">
-    <value>Vous êtes le fusilier. Vous ne dormez pas bien, et votre fusil est votre doudou. Si vous mourrez, vous pourrez choisir un autre joueur pour vous accompagenr dans ce grand voyage qu'est la mort. Cepandant, si vous êtes mangé, vous aurez une chance de tuer vos agresseurs, mais pas la possibilité de choisir.</value>
+    <value>Vous êtes le fusilier. Vous ne dormez pas bien, et votre fusil est votre doudou. Si vous mourrez, vous pourrez choisir un autre joueur pour vous accompagenr dans ce grand voyage qu'est la mort. Cependant, si vous êtes mangé, vous aurez une chance de tuer vos agresseurs, mais pas la possibilité de choisir.</value>
   </string>
   <string key="RoleInfoSerialKiller">
     <value>Vous êtes le Céréales Killer. Vous collectionnez les jouets promotionnels, les soldats en plomb, et les corps des villageois. Chaque nuit, choisissez quelqu'un à tuer, pour agrandir votre collection.</value>
@@ -549,7 +549,7 @@
     <value>Les cultistes envoient {0} convertir {1}, mais il ressort de la maison tête la première par la fenêtre, criblé de coups de couteau. Quel psychopathe !! {0} ne va plus pouvoir servir à grand chose…</value>
   </string>
   <string key="GuardKiller">
-    <value>En amateur de chocapics, vous vouliez protéger le Céréales Killer… celui-ci ne s'est pas laissé faire et vous a plumé comme un poulet. Vous êtes morts, lamentablement mort, et ça pique…</value>
+    <value>En amateur de chocapics, vous vouliez protéger le Céréales Killer… celui-ci ne s'est pas laissé faire et vous a plumé comme un poulet. Vous êtes mort, lamentablement mort, et ça pique…</value>
   </string>
   <string key="HarlotFuckKiller">
     <value>Vous vous faufilez dans la maison de {0} et commencez à vous amuser un peu. Tout est parfait, jusqu'à ce qu'il sorte un grand couteau. Un nouveau jeu sexuel ? Il semblerait plutôt qu'il veuille vous assassiner. Vous mourrez dans d'atroces souffrances… dommage, vos charmes seront regrettés dans le village.</value>
