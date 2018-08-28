@@ -1459,7 +1459,7 @@ Comme il ne reste que {0}, {1} attend patiemment le moment où celui-ci baissera
   <!-- 0 - Number of votes -->
   <!-- 1 - Player got lynched -->
   <!-- 2 - A list of players who voted {1} -->
-    <value>{0} personnes ont voté pour {1} : {2}</value>
+    <value>Nombre de personnes ayant voté pour {1} : {0}.\n{2}</value>
   </string>
   <string key="SecretLynchResultFull">
   <!-- 0 - A list of "SecretLynchResultEach" or "SecretLynchResultNumber" -->
@@ -1468,7 +1468,7 @@ Comme il ne reste que {0}, {1} attend patiemment le moment où celui-ci baissera
   <string key="SecretLynchResultNumber">
   <!-- 0 - Number of votes -->
   <!-- 1 - Player got lynched -->
-    <value>{0} personnes ont voté pour {1}.</value>
+    <value>Nombre de personnes ayant voté pour {1} : {0}.</value>
   </string>
   <string key="SecretLynchShowVotes">
     <value>Secret: Total</value>
