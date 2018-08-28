@@ -525,7 +525,7 @@
     <value>Alors que {0} rend son dernier souffle, il ne peut choisir de cible… et accepte son destin.</value>
   </string>
   <string key="HunterKilledFinalShot">
-    <value>Touché par balle, {0} s'écroule lamentablement… mais non sans attraper son fusil et tirer en direction de {1} qui reçoit une balle entre les deux yeux. {2}</value>
+    <value>Agonisant, {0} s'écroule lamentablement… mais non sans attraper son fusil et tirer en direction de {1} qui reçoit une balle entre les deux yeux. {2}</value>
   </string>
   <string key="HunterShotWolfMulti">
     <value>Les loups ont attaqué le fusilier la nuit dernière, mais il a pu en abattre un pour l'accompagner dans la tombe ! {0}, un loup, est mort.</value>
