@@ -1519,6 +1519,17 @@ Comme il ne reste que {0}, {1} attend patiemment le moment où celui-ci baissera
     <value>Équipe du Voleur</value>
   </string>
 
+  <string key="StealKiller">
+    <value>Vous essayez de voler un rôle, mais vous vous êtes attaqué à la mauvaise cible… Le Céréales Killer vous a repéré, a bondi, et vous a enfoncé son grand couteau dans le cœur.</value>
+  </string>
+  <string key="ThiefStoleKiller">
+    <!-- used when Thief steals SK -->
+    <value>{0}, le Voleur, a essayé de voler le rôle du Céréales Killer ! Mal lui en a pris, il gît maintenant le cœur transpercé, et le foie manquant.</value>
+  </string>
+  <string key="BeholderSeerStolen">
+    <value>Le Voleur a volé la Voyante ! {0} est la nouvelle Voyante, et {1} a perdu son don.</value>
+  </string>
+
 
   <!-- New roles 28.12.2018 -->
   <string key="Troublemaker">
